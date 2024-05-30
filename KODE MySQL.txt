@@ -1,0 +1,16 @@
+Kode My SQL :
+
+CREATE DATABASE pemlangui;
+
+USE pemlangui;
+
+CREATE TABLE pendaftaran (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama VARCHAR(100) NOT NULL,
+    alamat VARCHAR(100) NOT NULL
+);
+
+
+
+
+##Maaf bapak, kode MySQL ditulis di note pad dikarenakan letak penyimpanan data masih tidak ditemukan bapak,sudah dicari bapak
